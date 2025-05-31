@@ -22,6 +22,6 @@ cek keaslian
   </style>
 </head>
 <body>
-  <h1>I LOVE U SOOOOOOOOO IMOY :3 by diaz ahmad</h1>
+  <h1>I LOVE U SOOOOOOOOOO IMOY :3 by diaz ahmad</h1>
 </body>
 </html>
