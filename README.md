@@ -1,10 +1,10 @@
-# Bukti-Keaslian
-cek keaslian
+# ITS ABOUT SOMETHING
+HERE COME
 <!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Bukti Keaslian</title>
+  <title>SO MAYBE</title>
   <style>
     body {
       display: flex;
@@ -22,6 +22,6 @@ cek keaslian
   </style>
 </head>
 <body>
-  <h1>I LOVE U SOOOOOOOOOO IMOY :3 by diaz ahmad</h1>
+  <h1>tunggu update selanjutnya ya sayang 💕</h1>
 </body>
 </html>
